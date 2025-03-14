@@ -7,9 +7,9 @@ import img from "../../../../public/assets/img/service/service-shape-right.png";
 
 
 const service_content = {
-    sub_title: "WHAT WE DO",
-    title: "Our Services",
-    description: <>Softec provides all customer management <br /> service within one software.</>,
+    sub_title: "Investment Management",
+    title: "Real-Time Trading Analytics",
+    description: <>Secure Investments,  Live Charts & Insights <br /> Profit Calculation, Track Growth.</>,
 }
 const {sub_title, title, description}  = service_content
 

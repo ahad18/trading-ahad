@@ -6,17 +6,17 @@ import useCharAnimation from '@/src/hooks/useCharAnimation';
 
 import hero_shape from "../../../../public/assets/img/hero/hero-shape-4-1.png";
 import hero_img  from "../../../../public/assets/img/hero/hero-4-3.png";
-import hero_4_img_1  from "../../../../public/assets/img/hero/hero-4-1.png";
+import hero_4_img_1  from "../../../../public/assets/img/hero/hero-man.png";
 import hero_4_img_2  from "../../../../public/assets/img/hero/hero-4-2.png";
 
 const hero_content = {
-    sub_title: "Wellcome to Softec",
+    sub_title: "Wellcome to Trading Partner",
     title: <>
-    <span><span className='child'>A1-Driven</span></span>{" "}
-    <span><span className='child'>Cyber Security</span></span>{" "}
-    <span><span className='child'>Solutions</span></span>
+    <span><span className='child'>Secure & Profitable</span></span>{" "}
+    <span><span className='child'>Trading Investment</span></span>{" "}
+    <span><span className='child'>Platform</span></span>
     </>,
-   //  title: "A1-Driven Cyber Security Solutions",
+   //  title: "Secure & Profitable Trading Investment Platform",
 }
 const { sub_title, title}  = hero_content
 
@@ -44,7 +44,7 @@ const HeroArea = () => {
                            <Link className="tp-btn-yellow-border wow tpfadeRight" 
                                  data-wow-duration=".9s" 
                                  data-wow-delay=".7s" href="/contact">
-                                <span>Get in Touch<i className="far fa-angle-right"></i></span>
+                                <span>Start Investing<i className="far fa-angle-right"></i></span>
                             </Link>
                         </div>
                      </div>

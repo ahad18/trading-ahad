@@ -28,8 +28,10 @@ const HeaderFour = ({style_error}) => {
                               <Link href="/"><Image src={logo} alt="theme-pure" /></Link>
                               :
                               <>
-                              <Link className="white-logo" href="/"><Image src={white_logo} alt="theme-pure" /></Link>
-                              <Link className="black-logo" href="/"><Image src={black_logo} alt="theme-pure" /></Link>                     
+                              <Link className="white-logo" href="/">
+                              {/* <Image src={white_logo} alt="theme-pure" /> */}
+                              <h1 className='text-white'>Trading</h1></Link>
+                              <Link className="black-logo" href="/"><Image src={black_logo} alt="theme-pure" /><h1 className='text-white'>Trading</h1></Link>                     
                               </>
 
                               }

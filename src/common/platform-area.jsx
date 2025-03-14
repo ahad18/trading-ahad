@@ -18,7 +18,7 @@ const platform_data = [
         id: 1,
         cls: "one", 
         count: "01",
-        title: "Firewall & VPN",
+        title: "FSecure Transactions",
         sub_title: "Live Security",
         des: <>Blocks infected website tracking programs and annoying.</>
         
@@ -27,7 +27,7 @@ const platform_data = [
         id: 2,
         cls: "two", 
         count: "02",
-        title: "Hack Protection",
+        title: "Investment Tracking",
         sub_title: "Hack Protection",
         des: <>Blocks infected website tracking programs and annoying.</>,
         
@@ -36,7 +36,7 @@ const platform_data = [
         id: 3,
         cls: "three", 
         count: "03",
-        title: "Live Security",
+        title: "Real-Time Notifications",
         sub_title: "Live Security",
         des: <>Blocks infected website tracking programs and annoying.</>,
         
@@ -45,7 +45,7 @@ const platform_data = [
         id: 4,
         cls: "four", 
         count: "04",
-        title: "Online Support",
+        title: "Admin Dashboard",
         sub_title: "Online Support",
         des: <>Blocks infected website tracking programs and annoying.</>,
         

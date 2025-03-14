@@ -78,7 +78,8 @@ const BrandArea = () => {
                               <div className="tp-barnd-icon">
                                  <Image src={shape_2} alt="theme-pure" />
                               </div>
-                              <h5 className="tp-barnd-title-sm">2k Companies <br /> Trusted in the world</h5>
+                              <h5 className="tp-barnd-title-sm">Top Investors, 
+                              <br /> Active Users, or Investment Partners</h5>
                            </div>
                         </div>
                         <div className="col-xl-8 col-lg-8">
